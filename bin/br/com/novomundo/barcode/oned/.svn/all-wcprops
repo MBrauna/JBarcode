@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned
+END
+Code128Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code128Writer.java
+END
+EAN13Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/EAN13Writer.java
+END
+ITFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/ITFReader.java
+END
+UPCEANExtensionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEANExtensionSupport.java
+END
+OneDReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/OneDReader.java
+END
+UPCEANWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEANWriter.java
+END
+Code93Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code93Reader.java
+END
+Code39Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code39Reader.java
+END
+UPCAReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCAReader.java
+END
+EAN8Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/EAN8Reader.java
+END
+CodaBarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/CodaBarReader.java
+END
+ITFWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/ITFWriter.java
+END
+UPCEReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEReader.java
+END
+MultiFormatUPCEANReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/MultiFormatUPCEANReader.java
+END
+Code93Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code93Writer.java
+END
+Code39Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code39Writer.java
+END
+EANManufacturerOrgSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/EANManufacturerOrgSupport.java
+END
+UPCAWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCAWriter.java
+END
+UPCEANExtension2Support.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEANExtension2Support.java
+END
+EAN8Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/EAN8Writer.java
+END
+Code128Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/Code128Reader.java
+END
+CodaBarWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/CodaBarWriter.java
+END
+UPCEWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEWriter.java
+END
+EAN13Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/EAN13Reader.java
+END
+UPCEANExtension5Support.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEANExtension5Support.java
+END
+MultiFormatOneDReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/MultiFormatOneDReader.java
+END
+OneDimensionalCodeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/OneDimensionalCodeWriter.java
+END
+UPCEANReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/UPCEANReader.java
+END

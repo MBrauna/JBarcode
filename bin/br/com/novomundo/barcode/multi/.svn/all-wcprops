@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/multi
+END
+GenericMultipleBarcodeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/multi/GenericMultipleBarcodeReader.java
+END
+ByQuadrantReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/multi/ByQuadrantReader.java
+END
+MultipleBarcodeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/multi/MultipleBarcodeReader.java
+END

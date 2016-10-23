@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder/DataBlock.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/datamatrix/decoder/Version.java
+END

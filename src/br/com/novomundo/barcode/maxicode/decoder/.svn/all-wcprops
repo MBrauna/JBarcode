@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/maxicode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/maxicode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/maxicode/decoder/BitMatrixParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/maxicode/decoder/Decoder.java
+END

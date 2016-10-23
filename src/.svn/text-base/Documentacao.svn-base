@@ -1,0 +1,129 @@
+                             _________________
+                            /                /
+                           / B A R C O D E! /
+                  ,   ,   /________________/
+                  {O,O} .-
+                  /)_)
+ +-----------------" "------------------+
+ |          Projeto Barcode NM          |
+ +--------------------------------------+
+ |                                      |
+ | Autor: Michel Brauna Rodrigues       |
+ | Data : 19/07/2014                    |
+ | Ver  : 0.0.2                         |
+ | Desc : Projeto de criação de código  |
+ |   de barras (barcode).               |
+ |                                      |
+ | +----------------------------------+ |
+ | |            Parâmetros            | |
+ | +----------------------------------+ |
+ | |_[p_chave]                        | |
+ | |  |_[texto à ser codificado]      | |
+ | |    |_[String]                    | |
+ | |                                  | |
+ | |_[p_extensao]                     | |
+ | |  |_[Formato de saída do dado]    | |
+ | |    |_[String]                    | |
+ | |      |_[PNG]                     | |
+ | |      |_[JPG]                     | |
+ | |      |_[JPEG]                    | |
+ | |      |_[BMP]                     | |
+ | |      |_[GIF]                     | |
+ | |      |_[TIF]                     | |
+ | |                                  | |
+ | |_[p_altura]                       | |
+ | |  |_[Altura da imagem gerada]     | |
+ | |    |_[Integer]                   | |
+ | |                                  | |
+ | |_[p_largura]                      | |
+ | |  |_[Largura da imagem gerada]    | |
+ | |    |_[Integer]                   | |
+ | |                                  | |
+ | |_[p_formato]                      | |
+ | |  |_[Tipo de barcode]             | |
+ | |    |_[Integer]                   | |
+ | |      |_[(1) - Code 39]           | |
+ | |      |_[(2) - Code 93]           | |
+ | |      |_[(3) - Code 128]          | |
+ | |      |_[(4) - Codabar]           | |
+ | |      |_[(5) - ITF]               | |
+ | |      |_[(6) - QrCode]            | |
+ | |      |_[(7) - Data Matrix]       | |
+ | |      |_[(8) - Aztec]             | |
+ | |      |_[(9) - PDF 417]           | |
+ | |                                  | |
+ | |_[p_diretorio]                    | |
+ | |  |_[Diretório para geração]      | |
+ | |    |_[String]                    | |
+ | |                                  | |
+ | +----------------------------------+ |
+ +--------------------------------------+
+
+
+
+
+ +--------------------------------------+
+ |     Função principal da chamada:     |
+ +--------------------------------------+
+ ** Codificação
+ - codifica_aztec.java
+ - codifica_codabar.java
+ - codifica_code128.java
+ - codifica_code39.java
+ - codifica_code93.java
+ - codifica_datamatrix.java
+ - codifica_itf.java
+ - codifica_pdf417.java
+ - codifica_qrcode.java
+
+ ** Decodificação
+ - decodifica_aztec.java
+ - decodifica_codabar.java
+ - decodifica_code128.java
+ - decodifica_code39.java
+ - decodifica_code93.java
+ - decodifica_datamatrix.java
+ - decodifica_itf.java
+ - decodifica_pdf417.java
+ - decodifica_qrcode.java
+
+ ** Arquivos
+ - gera_arquivo.java
+ - gera_base64.java
+
+
+
+ +--------------------------------------+
+ |                 Usos                 |
+ +--------------------------------------+
+  * codificacao.jar
+    ** Parâmetros:
+      *** [-c]  - codigo    - Chave a ser criptografada       - String    -
+      *** [-e]  - extensao  - Extensão da imagem de retorno   - String    - [PNG], [JPG], [JEPG], [BMP], [GIF] e [TIF]
+      *** [-a]  - altura    - Altura da imagem de retorno     - Integer   -
+      *** [-l]  - largura   - Largura da imagem de retorno    - Integer   -
+      *** [-t]  - tipo      - Tipo de barcode a ser gerado    - Integer   - [(1) - Code 39], [(2) - Code 93], [(3) - Code 128], [(4) - Codabar], [(5) - ITF], [(6) - QrCode], [(7) - Data Matrix], [(8) - Aztec],|_[(9) - PDF 417] 
+      *** [-s]  - saida     - Se saída de texto               - Integer   - [(1) - Saída de texto - base64], [(2) - Saída para diretório local - Binário], [(3) - Saída para FTP - Binário]
+      *** [-d]  - diretorio - Diretório para salvar os dados  - String    -
+      *** [-f]  - end_ftp   - URL/Porta para acesso ao FTP    - String    -
+      *** [-u]  - user_ftp  - Usuário de conexão ao FTP       - String    -
+      *** [-w]  - senha_ftp - Senha de conexão ao FTP         - String    -
+    ** Exemplo:
+      *** java -jar barcode_codifica.jar "-c0123456789" "-ePNG" "-a1080" "-l1080" "-t8" "-s4" "-d/home/dengao_zica" "-f127.0.0.1:21" "-udengao_zica" "-wchikungunya"
+
+  * barcode.novomundo.com.br
+    ** Parâmetros:
+      *** codigo    - Chave a ser criptografada       - String    -
+      *** tipo      - Tipo de barcode a ser gerado    - Integer   - [(1) - Code 39], [(2) - Code 93], [(3) - Code 128], [(4) - Codabar], [(5) - ITF], [(6) - QrCode], [(7) - Data Matrix], [(8) - Aztec],|_[(9) - PDF 417] 
+      *** extensao  - Extensão da imagem de retorno   - String    - [PNG], [JPG], [JEPG], [BMP], [GIF] e [TIF]
+      *** altura    - Altura da imagem de retorno     - Integer   -
+      *** largura   - Largura da imagem de retorno    - Integer   -
+    ** Exemplo:
+      *** http://barcode.novomundo.com.br/?codigo=0123456789?&tipo=8&extensao=PNG&altura=1080&largura=1080
+
+  * nm.pack_barcode_nm
+    ** Presente nos ambientes de:
+      *** [1] - Desenvolvimento
+      *** [2] - Homologação
+      *** [3] - Produção
+    ** Verificar documentação na package.

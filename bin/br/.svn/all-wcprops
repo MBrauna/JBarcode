@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/jbarcode/!svn/ver/2/trunk/src/br
+END
+codifica_datamatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_datamatrix.java
+END
+codifica.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/jbarcode/!svn/ver/2/trunk/src/br/codifica.java
+END
+gera_base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jbarcode/!svn/ver/2/trunk/src/br/gera_base64.java
+END
+codifica_itf.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_itf.java
+END
+gera_arquivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jbarcode/!svn/ver/2/trunk/src/br/gera_arquivo.java
+END
+codifica_code128.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_code128.java
+END
+codifica_pdf417.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_pdf417.java
+END
+codifica_aztec.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_aztec.java
+END
+codifica_code39.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_code39.java
+END
+codifica_code93.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_code93.java
+END
+codifica_codabar.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_codabar.java
+END
+codifica_qrcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jbarcode/!svn/ver/2/trunk/src/br/codifica_qrcode.java
+END

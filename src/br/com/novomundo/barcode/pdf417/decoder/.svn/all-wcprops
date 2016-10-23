@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/DecodedBitStreamParser.java
+END
+BarcodeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/BarcodeMetadata.java
+END
+DetectionResultRowIndicatorColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/DetectionResultRowIndicatorColumn.java
+END
+PDF417CodewordDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/PDF417CodewordDecoder.java
+END
+Codeword.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/Codeword.java
+END
+DetectionResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/DetectionResultColumn.java
+END
+BarcodeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/BarcodeValue.java
+END
+PDF417ScanningDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/PDF417ScanningDecoder.java
+END
+DetectionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/DetectionResult.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/pdf417/decoder/BoundingBox.java
+END

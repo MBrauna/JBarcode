@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result
+END
+ExpandedProductResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ExpandedProductResultParser.java
+END
+CalendarParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/CalendarParsedResult.java
+END
+ISBNResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ISBNResultParser.java
+END
+GeoParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/GeoParsedResult.java
+END
+EmailAddressResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/EmailAddressResultParser.java
+END
+WifiResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/WifiResultParser.java
+END
+ProductParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ProductParsedResult.java
+END
+ParsedResultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ParsedResultType.java
+END
+AbstractDoCoMoResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/AbstractDoCoMoResultParser.java
+END
+URLTOResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/URLTOResultParser.java
+END
+TelParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/TelParsedResult.java
+END
+VEventResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/VEventResultParser.java
+END
+GeoResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/GeoResultParser.java
+END
+BizcardResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/BizcardResultParser.java
+END
+VINParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/VINParsedResult.java
+END
+ProductResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ProductResultParser.java
+END
+URIParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/URIParsedResult.java
+END
+AddressBookParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/AddressBookParsedResult.java
+END
+SMTPResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/SMTPResultParser.java
+END
+TelResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/TelResultParser.java
+END
+SMSParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/SMSParsedResult.java
+END
+SMSTOMMSTOResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/SMSTOMMSTOResultParser.java
+END
+AddressBookAUResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/AddressBookAUResultParser.java
+END
+EmailDoCoMoResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/EmailDoCoMoResultParser.java
+END
+VINResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/VINResultParser.java
+END
+VCardResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/VCardResultParser.java
+END
+URIResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/URIResultParser.java
+END
+ParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ParsedResult.java
+END
+AddressBookDoCoMoResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/AddressBookDoCoMoResultParser.java
+END
+TextParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/TextParsedResult.java
+END
+BookmarkDoCoMoResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/BookmarkDoCoMoResultParser.java
+END
+ExpandedProductParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ExpandedProductParsedResult.java
+END
+ISBNParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ISBNParsedResult.java
+END
+SMSMMSResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/SMSMMSResultParser.java
+END
+ResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/ResultParser.java
+END
+EmailAddressParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/EmailAddressParsedResult.java
+END
+WifiParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/client/result/WifiParsedResult.java
+END

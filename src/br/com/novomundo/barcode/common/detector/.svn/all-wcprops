@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/detector
+END
+WhiteRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/detector/WhiteRectangleDetector.java
+END
+MonochromeRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/detector/MonochromeRectangleDetector.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/detector/MathUtils.java
+END

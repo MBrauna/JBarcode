@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/DataBlock.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/Mode.java
+END
+QRCodeDecoderMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/QRCodeDecoderMetaData.java
+END
+DataMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/DataMask.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/Version.java
+END
+ErrorCorrectionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/ErrorCorrectionLevel.java
+END
+FormatInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/qrcode/decoder/FormatInformation.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss
+END
+RSS14Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/RSS14Reader.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/FinderPattern.java
+END
+DataCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/DataCharacter.java
+END
+RSSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/RSSUtils.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/Pair.java
+END
+AbstractRSSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/AbstractRSSReader.java
+END

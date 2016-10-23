@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode
+END
+MultiFormatWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/MultiFormatWriter.java
+END
+MatrixToImageConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/MatrixToImageConfig.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/Reader.java
+END
+ResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/ResultPointCallback.java
+END
+MatrixToImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/MatrixToImageWriter.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/FormatException.java
+END
+DecodeHintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/DecodeHintType.java
+END
+BarcodeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/BarcodeFormat.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/NotFoundException.java
+END
+Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/Writer.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/Result.java
+END
+ChecksumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/ChecksumException.java
+END
+BinaryBitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/BinaryBitmap.java
+END
+ReaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/ReaderException.java
+END
+ResultMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/ResultMetadataType.java
+END
+EncodeHintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/EncodeHintType.java
+END
+Dimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/Dimension.java
+END
+Binarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/Binarizer.java
+END
+MultiFormatReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/MultiFormatReader.java
+END
+RGBLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/RGBLuminanceSource.java
+END
+ResultPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/ResultPoint.java
+END
+WriterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/WriterException.java
+END
+LuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/LuminanceSource.java
+END
+InvertedLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/InvertedLuminanceSource.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/PlanarYUVLuminanceSource.java
+END

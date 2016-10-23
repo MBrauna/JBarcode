@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon
+END
+ReedSolomonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon/ReedSolomonException.java
+END
+ReedSolomonEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon/ReedSolomonEncoder.java
+END
+GenericGF.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon/GenericGF.java
+END
+ReedSolomonDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon/ReedSolomonDecoder.java
+END
+GenericGFPoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/common/reedsolomon/GenericGFPoly.java
+END

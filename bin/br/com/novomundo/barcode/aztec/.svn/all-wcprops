@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/aztec
+END
+AztecDetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/aztec/AztecDetectorResult.java
+END
+AztecWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/aztec/AztecWriter.java
+END
+AztecReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/aztec/AztecReader.java
+END

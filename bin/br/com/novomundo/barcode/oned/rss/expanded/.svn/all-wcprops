@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/expanded
+END
+ExpandedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/expanded/ExpandedRow.java
+END
+RSSExpandedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/expanded/RSSExpandedReader.java
+END
+BitArrayBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/expanded/BitArrayBuilder.java
+END
+ExpandedPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jbarcode/!svn/ver/2/trunk/src/br/com/novomundo/barcode/oned/rss/expanded/ExpandedPair.java
+END
