@@ -5,7 +5,7 @@
                   {O,O} .-
                   /)_)
  +-----------------" "------------------+
- |          Projeto Barcode NM          |
+ |           Projeto Barcode            |
  +--------------------------------------+
  |                                      |
  | Autor: Michel Brauna Rodrigues       |
@@ -103,7 +103,7 @@
       *** [-a]  - altura    - Altura da imagem de retorno     - Integer   -
       *** [-l]  - largura   - Largura da imagem de retorno    - Integer   -
       *** [-t]  - tipo      - Tipo de barcode a ser gerado    - Integer   - [(1) - Code 39], [(2) - Code 93], [(3) - Code 128], [(4) - Codabar], [(5) - ITF], [(6) - QrCode], [(7) - Data Matrix], [(8) - Aztec],|_[(9) - PDF 417] 
-      *** [-s]  - saida     - Se saída de texto               - Integer   - [(1) - Saída de texto - base64], [(2) - Saída para diretório local - Binário], [(3) - Saída para FTP - Binário], [(4) - Saída em texto - Imitando imagem]
+      *** [-s]  - saida     - Se saída de texto               - Integer   - [(1) - Saída de texto - base64], [(2) - Saída para diretório local - Binário], [(3) - Saída para FTP - Binário]
       *** [-d]  - diretorio - Diretório para salvar os dados  - String    -
       *** [-f]  - end_ftp   - URL/Porta para acesso ao FTP    - String    -
       *** [-u]  - user_ftp  - Usuário de conexão ao FTP       - String    -
@@ -111,7 +111,7 @@
     ** Exemplo:
       *** java -jar barcode_codifica.jar "-c0123456789" "-ePNG" "-a1080" "-l1080" "-t8" "-s4" "-d/home/dengao_zica" "-f127.0.0.1:21" "-udengao_zica" "-wchikungunya"
 
-  * barcode.novomundo.com.br
+  * barcode web.
     ** Parâmetros:
       *** codigo    - Chave a ser criptografada       - String    -
       *** tipo      - Tipo de barcode a ser gerado    - Integer   - [(1) - Code 39], [(2) - Code 93], [(3) - Code 128], [(4) - Codabar], [(5) - ITF], [(6) - QrCode], [(7) - Data Matrix], [(8) - Aztec],|_[(9) - PDF 417] 
@@ -119,11 +119,4 @@
       *** altura    - Altura da imagem de retorno     - Integer   -
       *** largura   - Largura da imagem de retorno    - Integer   -
     ** Exemplo:
-      *** http://barcode.novomundo.com.br/?codigo=0123456789?&tipo=8&extensao=PNG&altura=1080&largura=1080
-
-  * nm.pack_barcode_nm
-    ** Presente nos ambientes de:
-      *** [1] - Desenvolvimento
-      *** [2] - Homologação
-      *** [3] - Produção
-    ** Verificar documentação na package.
+      *** http://barcode.meusite.com.br/?codigo=0123456789?&tipo=8&extensao=PNG&altura=1080&largura=1080
